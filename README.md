@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **mohamedtahermail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mByabQRbTIdw3KzrMUj8h35PdTKMdXrZ/view?usp=sharing](https://drive.google.com/file/d/1mByabQRbTIdw3KzrMUj8h35PdTKMdXrZ/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamedtaher-eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedtaher-eg" height="30" width="40" /></a>
