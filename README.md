@@ -14,6 +14,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohamedtah2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedtah2" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-taher1&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamed-taher1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtahereg&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamedtahereg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-taher1&theme=dark" alt="mohamed-taher1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtahereg&theme=dark" alt="mohamedtahereg" /></p>
